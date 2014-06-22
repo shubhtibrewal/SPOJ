@@ -3,6 +3,7 @@ SPOJ
 ====
 
 My solutions for SPOJ problems (http://www.spoj.com) .
+<<<<<<< HEAD
 =======
 ### Well hello there!
 
@@ -14,3 +15,6 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 >>>>>>> upstream/master
+=======
+This is my first repository.
+>>>>>>> 479eee2dea9373ed1587f75c90b0ab7e92990717
