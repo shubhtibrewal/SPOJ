@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 long long seq_dp(long n)
-{
+{ 
 long long y=0;
 long i;
 if(n<=1)
